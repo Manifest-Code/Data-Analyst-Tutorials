@@ -1,0 +1,39 @@
+2026-01-31 17:23:30,846 INFO processing each element
+2026-01-31 17:23:30,846 INFO There are no prime numbers below 2. 1 number is below 2.
+2026-01-31 17:23:30,846 INFO 1 is not a prime number
+2026-01-31 17:23:30,846 INFO processing each element
+2026-01-31 17:23:30,846 INFO hello is not an integer, skipping prime check
+2026-01-31 17:23:30,846 INFO hello is not a prime number
+2026-01-31 17:23:30,846 INFO processing each element
+2026-01-31 17:23:30,846 INFO processing sublist element: 2
+2026-01-31 17:23:30,846 INFO 2 is a prime number
+2026-01-31 17:23:30,848 INFO processing sublist element: world
+2026-01-31 17:23:30,848 INFO world is not an integer, skipping prime check
+2026-01-31 17:23:30,848 INFO processing each element
+2026-01-31 17:23:30,891 INFO 4 is not a prime number
+2026-01-31 17:23:30,891 INFO 4 is not a prime number
+2026-01-31 17:23:30,891 INFO processing each element
+2026-01-31 17:23:30,891 INFO processing sublist element: 3
+2026-01-31 17:23:30,891 INFO 3 is a prime number
+2026-01-31 17:23:30,891 INFO processing sublist element: Python
+2026-01-31 17:23:30,891 INFO Python is not an integer, skipping prime check
+2026-01-31 17:24:43,147 INFO processing each element
+2026-01-31 17:24:43,147 INFO There are no prime numbers below 2. 1 number is below 2.
+2026-01-31 17:24:43,148 INFO 1 is not a prime number
+2026-01-31 17:24:43,148 INFO processing each element
+2026-01-31 17:24:43,148 INFO hello is not an integer, skipping prime check
+2026-01-31 17:24:43,148 INFO hello is not a prime number
+2026-01-31 17:24:43,148 INFO processing each element
+2026-01-31 17:24:43,148 INFO processing sublist element: 2
+2026-01-31 17:24:43,148 INFO 2 is a prime number
+2026-01-31 17:24:43,148 INFO processing sublist element: world
+2026-01-31 17:24:43,148 INFO world is not an integer, skipping prime check
+2026-01-31 17:24:43,148 INFO processing each element
+2026-01-31 17:24:43,149 INFO 4 is not a prime number
+2026-01-31 17:24:43,149 INFO 4 is not a prime number
+2026-01-31 17:24:43,149 INFO processing each element
+2026-01-31 17:24:43,149 INFO processing sublist element: 3
+2026-01-31 17:24:43,149 INFO 3 is a prime number
+2026-01-31 17:24:43,149 INFO processing sublist element: Python
+2026-01-31 17:24:43,149 INFO Python is not an integer, skipping prime check
+2026-01-31 17:24:43,149 INFO The result is : [2, 3]

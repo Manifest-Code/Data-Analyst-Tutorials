@@ -1,0 +1,10 @@
+INFO:root:This is my normal information about the software
+WARNING:root:There can be empty list here
+ERROR:root:Some error has happened
+CRITICAL:root:The software has stopped running
+INFO:root:This is my info msg
+WARNING:root:This is my warning msg
+INFO:root:This is my normal information about the software
+WARNING:root:There can be empty list here
+ERROR:root:Some error has happened
+CRITICAL:root:The software has stopped running

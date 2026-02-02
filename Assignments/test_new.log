@@ -1,0 +1,13 @@
+2026-02-02 11:57:16,270 This msg is for debugging
+2026-02-02 11:57:16,271 This is my info msg
+2026-02-02 11:57:16,271 This is my warning msg
+ERROR:root:ZeroDivisionError occurred: division by zero
+ERROR:root:ZeroDivisionError occurred: division by zero
+INFO:root:This is my info msg
+WARNING:root:This is my warning msg
+ERROR:root:This is my error msg
+INFO:root:Division successful: 7 / 9 = 0.7777777777777778
+INFO:root:Error occured
+ERROR:root:Division by zero attempted
+INFO:root:Error occured
+ERROR:root:Division by zero attempted

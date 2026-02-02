@@ -1,0 +1,73 @@
+ERROR:root:My file was not found [Errno 2] No such file or directory: 'example_file.txt'
+ERROR:root:My file was not found division by zero
+2026-01-31 16:35:25,279 INFO processing each element 1
+2026-01-31 16:35:25,280 INFO processing each element hello
+2026-01-31 16:35:25,280 INFO processing each element [2, 'world']
+2026-01-31 16:35:25,280 INFO processing sublist element: 2
+2026-01-31 16:35:25,280 INFO processing sublist element: world
+2026-01-31 16:35:25,280 INFO processing each element 4
+2026-01-31 16:35:25,280 INFO processing each element [3, 'Python']
+2026-01-31 16:35:25,281 INFO processing sublist element: 3
+2026-01-31 16:35:25,281 INFO processing sublist element: Python
+2026-01-31 16:35:25,281 INFO The result is : [1, 2, 4, 3], ['hello']
+2026-01-31 16:46:58,260 INFO processing each element 1
+2026-01-31 16:46:58,262 INFO processing each element hello
+2026-01-31 16:46:58,262 INFO processing each element [2, 'world']
+2026-01-31 16:46:58,262 INFO processing sublist element: 2
+2026-01-31 16:46:58,262 INFO processing sublist element: world
+2026-01-31 16:46:58,262 INFO processing each element 4
+2026-01-31 16:46:58,262 INFO processing each element [3, 'Python']
+2026-01-31 16:46:58,262 INFO processing sublist element: 3
+2026-01-31 16:46:58,262 INFO processing sublist element: Python
+2026-01-31 16:46:58,263 INFO The result is : [1, 2, 4, 3], ['hello', 'world', 'Python']
+2026-01-31 16:47:25,692 INFO processing each element 1
+2026-01-31 16:47:25,694 INFO processing each element hello
+2026-01-31 16:47:25,694 INFO processing each element [2, 'world']
+2026-01-31 16:47:25,694 INFO processing sublist element: 2
+2026-01-31 16:47:25,694 INFO processing sublist element: world
+2026-01-31 16:47:25,694 INFO processing each element 4
+2026-01-31 16:47:25,694 INFO processing each element [3, 'Python']
+2026-01-31 16:47:25,694 INFO processing sublist element: 3
+2026-01-31 16:47:25,694 INFO processing sublist element: Python
+2026-01-31 16:47:25,694 INFO The result is : [1, 2, 4, 3], ['hello']
+2026-01-31 16:47:36,069 INFO processing each element 1
+2026-01-31 16:47:36,071 INFO processing each element hello
+2026-01-31 16:47:36,071 INFO processing each element [2, 'world']
+2026-01-31 16:47:36,071 INFO processing sublist element: 2
+2026-01-31 16:47:36,071 INFO processing sublist element: world
+2026-01-31 16:47:36,071 INFO processing each element 4
+2026-01-31 16:47:36,071 INFO processing each element [3, 'Python']
+2026-01-31 16:47:36,071 INFO processing sublist element: 3
+2026-01-31 16:47:36,071 INFO processing sublist element: Python
+2026-01-31 16:47:36,071 INFO The result is : [1, 2, 4, 3], ['hello', 'world', 'Python']
+2026-01-31 17:17:51,911 INFO processing each element
+2026-01-31 17:17:51,918 INFO There are no prime numbers below 2, 1 number is below 2.
+2026-01-31 17:17:51,918 INFO 1 is not a prime number
+2026-01-31 17:17:51,918 INFO processing each element
+2026-01-31 17:18:35,598 INFO processing each element
+2026-01-31 17:18:35,598 INFO There are no prime numbers below 2. 1 number is below 2.
+2026-01-31 17:18:35,598 INFO 1 is not a prime number
+2026-01-31 17:18:35,598 INFO processing each element
+2026-01-31 17:20:06,933 INFO processing each element
+2026-01-31 17:20:06,933 INFO There are no prime numbers below 2. 1 number is below 2.
+2026-01-31 17:20:06,933 INFO 1 is not a prime number
+2026-01-31 17:20:06,933 INFO processing each element
+2026-01-31 17:22:57,021 INFO processing each element
+2026-01-31 17:22:57,021 INFO There are no prime numbers below 2. 1 number is below 2.
+2026-01-31 17:22:57,021 INFO 1 is not a prime number
+2026-01-31 17:22:57,021 INFO processing each element
+2026-01-31 17:22:57,021 INFO hello is not an integer, skipping prime check
+2026-01-31 17:22:57,021 INFO hello is not a prime number
+2026-01-31 17:22:57,021 INFO processing each element
+2026-01-31 17:22:57,021 INFO processing sublist element: 2
+2026-01-31 17:22:57,021 INFO 2 is a prime number
+2026-01-31 17:22:57,022 INFO processing sublist element: world
+2026-01-31 17:22:57,022 INFO world is not an integer, skipping prime check
+2026-01-31 17:22:57,022 INFO processing each element
+2026-01-31 17:22:57,022 INFO 4 is not a prime number
+2026-01-31 17:22:57,022 INFO 4 is not a prime number
+2026-01-31 17:22:57,022 INFO processing each element
+2026-01-31 17:22:57,022 INFO processing sublist element: 3
+2026-01-31 17:22:57,022 INFO 3 is a prime number
+2026-01-31 17:22:57,022 INFO processing sublist element: Python
+2026-01-31 17:22:57,022 INFO Python is not an integer, skipping prime check
