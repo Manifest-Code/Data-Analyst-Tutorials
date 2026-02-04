@@ -2,3 +2,7 @@ Apple
 Banana
 Cherry
 Date
+Apple
+cherry
+cherry
+Date

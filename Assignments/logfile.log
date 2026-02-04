@@ -1,0 +1,10 @@
+2026-02-04 10:57:51,800 - INFO - This is a test log entry.
+2026-02-04 12:13:55,420 - ERROR - An unexpected error occurred: name 'file_path' is not defined
+2026-02-04 12:18:20,531 - INFO - The result is : Apple
+Banana
+Cherry
+Date
+Apple
+cherry
+cherry
+Date
