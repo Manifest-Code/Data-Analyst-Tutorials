@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home Page</title>
+</head>
+<body>
+    {% if name == "Alice" %}
+        {% for i in range(4) %}
+            <h1>Hi {{name}} !</h1>
+            <h2>Welcome to the Data Analyst Totorial</h2>
+            <br>
+            <p>Data Analyst Course Lecture: Real World Examples of APIs,
+            with job-ready assignments. Accessible to everyone</p>
+        {% endfor %}
+    {% else %}
+        <h1>Invalid User!</h1>
+    {% endif %}
+</body>
+</html>
