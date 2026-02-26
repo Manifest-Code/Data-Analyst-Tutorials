@@ -25,6 +25,13 @@ def get_news():
                "Author": author,
                "Published_At": published_At
                }
-    else:
+        
         return jsonify(output_data)
+    else:
+        return jsonify({"msg": "Invalid API Key"})
+    
+# --- ADD THIS BLOCK TO START THE SERVER ---
+if __name__ == "__main__":
+    print("Flask server is starting...")
+    app.run(debug=True, port=5000)    
 
