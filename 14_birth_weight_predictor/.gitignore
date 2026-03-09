@@ -1,0 +1,4 @@
+# Ignore the dataset and python cache
+Dataset
+# python cache
+__pycache__
