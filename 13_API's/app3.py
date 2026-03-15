@@ -26,6 +26,7 @@ def home():
     return render_template("index1.html")
 
 
+
 ## define your endpoint
 @app.route("/predict", methods = ['POST']) # post method because we are sending data to the server
 def get_prediction():
